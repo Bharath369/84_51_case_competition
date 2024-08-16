@@ -9,6 +9,12 @@ This repository contains all the materials and analysis conducted for the 84.51�
 - Hannah Latham
 - Kiet Ho
 
+## Achievement
+I am proud to share that our team won first place in this highly competitive case competition!
+
+![Winning Team](winners.jpg)
+
+
 ## Problem Statement
 The competition tasked us with analyzing the impact of rising prices on Kroger and national brands, and to provide strategic recommendations to enhance brand and category performance.
 
@@ -57,3 +63,6 @@ For any inquiries or further details, feel free to reach out through my [LinkedI
 
 ## Acknowledgements
 Special thanks to 84.51° and our mentors, Dr. Roseann Hassey and Professor Delmer "Bill" Nicholson, for their guidance throughout the competition.
+
+## Related Links
+- [84.51° LinkedIn Post](https://www.linkedin.com/posts/84-51_8451x-uoc-business-analytics-case-competition-ugcPost-7183902277630353408-S0HX?utm_source=share&utm_medium=member_desktop)
