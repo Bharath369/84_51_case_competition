@@ -33,7 +33,7 @@ Key Findings:
 - **Customer Behavior Shifts**: Notable shifts in loyalty, convenience, and price sensitivity.
 - **Symbiotic Relationship**: National brands attract new customers, while Kroger brands help differentiate and retain them.
 
-For a comprehensive analysis, see our [Product Sampling Analysis Report](docs/product_sampling_analysis.docx).
+For a comprehensive analysis, see our [Product Sampling Analysis Report](research/product_sampling_analysis.docx).
 
 ## Strategy and Recommendations
 Our proposed strategy revolved around a promotional mix that includes product sampling, targeted promotions, and customer feedback loops to foster loyalty and increase profitability.
@@ -43,7 +43,7 @@ Our proposed strategy revolved around a promotional mix that includes product sa
 2. **Promote**: Run targeted promotions on sampled items.
 3. **Reward**: Implement a feedback reward system to encourage customer loyalty.
 
-For detailed recommendations, see our [Presentation Slides](presentation/84.51%20Slide%20Rough%20Draft.pptx).
+For detailed recommendations, see our [Presentation Slides](presentation/84.51_case_competition_presentation.pptx).
 
 ## Tools Used
 - **SQL Server**: For data querying and extraction.
